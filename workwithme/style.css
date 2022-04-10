@@ -1,0 +1,19 @@
+#VideoEdits{
+    background-color: rgb(45, 44, 44);
+    padding-top: 50px;
+    padding-bottom: 50px;
+    width: 50%;
+    margin-right: 50%;
+
+}
+#WebDevlopment{
+    background-color: rgb(219, 219, 219);
+    padding-top: 50px;
+    padding-bottom: 50px;
+    width: 50%;
+    margin-left: 50%;
+
+}
+h2,h3,h4,p{
+    color: aqua;
+}
