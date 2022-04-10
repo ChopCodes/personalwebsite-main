@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-snowstorm": "^0.0.3",
+    "snowstorm": "^1.0.0"
+  }
+}
